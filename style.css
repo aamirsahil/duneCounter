@@ -3,7 +3,7 @@ html, body {
   padding: 0;
   height: 100%;
   overflow: hidden;
-  background-image: url(image.png);
+  background-image: url(image.webp);
   background-size: cover;
   background-position: center;
 }
@@ -75,7 +75,7 @@ html, body {
 .image {
   width: 4.5vh;
   height: 10vh;
-  background-image: url(armyM.png);
+  background-image: url(armyM.webp);
   background-size: cover;
   margin: 10px;
 }
